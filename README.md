@@ -1,9 +1,4 @@
-## Regression Test
 
-### Init
-
- - Access [Kobition](https://portal.kobiton.com) to get *USERNAME* and *API_KEY*
- - Replace *USERNAME* and *API_KEY* on `config.properties`
 
 ### Prerequisites
 
@@ -22,9 +17,6 @@
 
  - Select `Test.java`  
  
-#### Run parallel tests with TestNG
-### Modify `udid` on parallel_testng.xml to wait the device online
-#### Run test suite by right-clicking on parallel_testng.xml and select **Run-as → TestNG Suite**
 
 ### References
 
